@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: 457271242919.dkr.ecr.ap-south-1.amazonaws.com/my-repo:latest
+        image: 888154844094.dkr.ecr.ap-south-1.amazonaws.com/cicd:latest
         ports:
         - containerPort: 80
 ---
